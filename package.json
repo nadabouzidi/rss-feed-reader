@@ -1,0 +1,28 @@
+{
+  "name": "rss-feed-reader",
+  "version": "1.0.0",
+  "description": "rss feed reader",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadabouzidi/rss-feed-reader.git"
+  },
+  "keywords": [
+    "rss",
+    "feed",
+    "reader"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nadabouzidi/rss-feed-reader/issues"
+  },
+  "homepage": "https://github.com/nadabouzidi/rss-feed-reader#readme",
+  "dependencies": {
+    "rss-parser": "^3.12.0"
+  }
+}
